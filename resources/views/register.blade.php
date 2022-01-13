@@ -30,7 +30,7 @@
                                     <input type="password" class="form-control" id="exampleInputPassword1" style="background-color: rgb(238, 238, 238);">
                                 </div>
                                 <div class="form-group my-4">
-                                    <a href="home.html" class="btn btn-primary form-control">Daftar</a>
+                                    <a href="/login" class="btn btn-primary form-control">Daftar</a>
                                 </div>
                                 <p class="text-center" style="color: grey; font-size: small;">Sudah mempunyai akun? <a href="/login" style="color: black; font-size: small;"><b>Masuk</b></a></p>
                             </form>

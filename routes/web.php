@@ -25,6 +25,12 @@ Route::get('/about', function () {
     ]);
 });
 
+Route::get('/list', function () {
+    return view('list', [
+        "title" => "List Bus"
+    ]);
+});
+
 Route::get('/login', function () {
     return view('login', [
         "title" => "Login"
